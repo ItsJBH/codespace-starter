@@ -1,7 +1,7 @@
 # codespace-starter
 
-header 1
+## header 1
 
-header 2 
+### header 2 
 
-this is my first codespace or whatever
+## this is my first codespace or whatever
